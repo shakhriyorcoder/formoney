@@ -1,0 +1,8 @@
+{
+  "name": "Qayerda Arzoni",
+  "description": "Premium price comparison SaaS for Uzbek marketplaces (Uzum, Wildberries, Yandex Market) with AI-powered image search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
